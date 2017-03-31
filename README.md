@@ -120,7 +120,7 @@ end
 
 That's it!
 
-ExAws has by default the equivalent including the following in your mix.exs
+ExAws has by default the equivalent including the following in your config.exs
 
 ```elixir
 config :ex_aws,
